@@ -10,7 +10,7 @@ console.log(firstName);
 //var puede declarar 
 // let y const no puede redeclarar
 
-// const no se puede reasignar por ser constante siempre tiene que ser unica 
+// const no se puede reasignar noi declarar por ser constante siempre tiene que ser unica 
 
 // Con var
 var nombre // declaración (undefined) ✅
